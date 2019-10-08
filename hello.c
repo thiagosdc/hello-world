@@ -1,8 +1,12 @@
 #include <stdio.h>
-int main ( ){
-
-printf ("Hello World\n");
-
-    
-return 0;
+int main (){
+char name;
+printf("Digite Seu Nome\n");
+scanf(" ",name);
+if(name = "veveto"){
+return printf("Hello Mestre dos lix0 VVVVVVVVVVVVerto");
+}
+else{
+return printf("Hello World");
+}
 }
