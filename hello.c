@@ -2,8 +2,8 @@
 int main (){
 char name;
 printf("Digite Seu Nome\n");
-scanf(" ",name);
-if(name = "veveto"){
+scanf("%c",name);
+if(name == "veveto"){
 return printf("Hello Mestre dos lix0 VVVVVVVVVVVVerto");
 }
 else{
